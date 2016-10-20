@@ -1,12 +1,13 @@
 # Forest Rails Liana
 
-Forest is a modern admin interface, available for all major web frameworks. ([Live demo](https://app.forestadmin.com/login?livedemo))  
+Forest is a modern admin interface (see the [live demo](https://app.forestadmin.com/login?livedemo)).   
+This admin interface is available for projects of all major web frameworks.  
 forest-rails gem is the liana (=connector) that makes Forest admin work on any rails app.
 
 ## Installation
 
 Visit [Forest's website](http://www.forestadmin.com), enter your email and click "Get started".  
-You will then follow a 4-step process: (also available in this 1 min [video](https://www.youtube.com/watch?v=CaGBAV1T944))
+You will then follow a 4-step process (also available in this 1 min [video](https://www.youtube.com/watch?v=CaGBAV1T944)):
 
 1. Choose your stack (Rails)
 2. Install Forest Liana
@@ -44,12 +45,12 @@ Here are the integrations currently supported:
 * Zendesk
 * Close.io
 
-Note: More integrations will be developed given on Forest's users requirements.
+Note: More integrations will be developed given on users' requirements.
 
 ## Documentation
 
-Complete documentation is available on http://doc.forestadmin.com/  
-Documentation and gem are officially maintained by Forest.
+Complete documentation is available on http://doc.forestadmin.com   
+Documentation and this liana are officially maintained by Forest.
 
 ## Licence
 
